@@ -1,0 +1,241 @@
+maaned,operationstype,ressource,antal,omkostning_dkk
+2025-01,Robotkirurgi,Personale,19,543930.0
+2025-01,Robotkirurgi,Udstyr,19,341436.0
+2025-01,Robotkirurgi,Forbrug,19,112872.0
+2025-01,Robotkirurgi,Overhead,19,88829.0
+2025-01,Laparoskopi,Personale,57,708689.0
+2025-01,Laparoskopi,Udstyr,57,248671.0
+2025-01,Laparoskopi,Forbrug,57,128917.0
+2025-01,Laparoskopi,Overhead,57,103725.0
+2025-01,Åben kirurgi,Personale,27,394264.0
+2025-01,Åben kirurgi,Udstyr,27,87686.0
+2025-01,Åben kirurgi,Forbrug,27,90813.0
+2025-01,Åben kirurgi,Overhead,27,53803.0
+2025-01,Ambulant opfølgning,Personale,127,349778.0
+2025-01,Ambulant opfølgning,Udstyr,127,37974.0
+2025-01,Ambulant opfølgning,Forbrug,127,31603.0
+2025-01,Ambulant opfølgning,Overhead,127,49995.0
+2025-02,Robotkirurgi,Personale,19,543972.0
+2025-02,Robotkirurgi,Udstyr,19,331346.0
+2025-02,Robotkirurgi,Forbrug,19,118533.0
+2025-02,Robotkirurgi,Overhead,19,88094.0
+2025-02,Laparoskopi,Personale,52,640818.0
+2025-02,Laparoskopi,Udstyr,52,226632.0
+2025-02,Laparoskopi,Forbrug,52,118968.0
+2025-02,Laparoskopi,Overhead,52,94841.0
+2025-02,Åben kirurgi,Personale,30,420747.0
+2025-02,Åben kirurgi,Udstyr,30,99049.0
+2025-02,Åben kirurgi,Forbrug,30,101044.0
+2025-02,Åben kirurgi,Overhead,30,58756.0
+2025-02,Ambulant opfølgning,Personale,111,317682.0
+2025-02,Ambulant opfølgning,Udstyr,111,32496.0
+2025-02,Ambulant opfølgning,Forbrug,111,28662.0
+2025-02,Ambulant opfølgning,Overhead,111,44955.0
+2025-03,Robotkirurgi,Personale,16,430275.0
+2025-03,Robotkirurgi,Udstyr,16,277670.0
+2025-03,Robotkirurgi,Forbrug,16,96814.0
+2025-03,Robotkirurgi,Overhead,16,73737.0
+2025-03,Laparoskopi,Personale,52,641442.0
+2025-03,Laparoskopi,Udstyr,52,225711.0
+2025-03,Laparoskopi,Forbrug,52,117154.0
+2025-03,Laparoskopi,Overhead,52,96803.0
+2025-03,Åben kirurgi,Personale,31,456624.0
+2025-03,Åben kirurgi,Udstyr,31,101882.0
+2025-03,Åben kirurgi,Forbrug,31,104509.0
+2025-03,Åben kirurgi,Overhead,31,60521.0
+2025-03,Ambulant opfølgning,Personale,110,308112.0
+2025-03,Ambulant opfølgning,Udstyr,110,33647.0
+2025-03,Ambulant opfølgning,Forbrug,110,27786.0
+2025-03,Ambulant opfølgning,Overhead,110,45236.0
+2025-04,Robotkirurgi,Personale,16,456409.0
+2025-04,Robotkirurgi,Udstyr,16,280928.0
+2025-04,Robotkirurgi,Forbrug,16,94239.0
+2025-04,Robotkirurgi,Overhead,16,73209.0
+2025-04,Laparoskopi,Personale,60,726425.0
+2025-04,Laparoskopi,Udstyr,60,260377.0
+2025-04,Laparoskopi,Forbrug,60,133228.0
+2025-04,Laparoskopi,Overhead,60,104046.0
+2025-04,Åben kirurgi,Personale,32,471780.0
+2025-04,Åben kirurgi,Udstyr,32,99722.0
+2025-04,Åben kirurgi,Forbrug,32,108342.0
+2025-04,Åben kirurgi,Overhead,32,62380.0
+2025-04,Ambulant opfølgning,Personale,131,365584.0
+2025-04,Ambulant opfølgning,Udstyr,131,40193.0
+2025-04,Ambulant opfølgning,Forbrug,131,33107.0
+2025-04,Ambulant opfølgning,Overhead,131,52704.0
+2025-05,Robotkirurgi,Personale,16,463986.0
+2025-05,Robotkirurgi,Udstyr,16,283423.0
+2025-05,Robotkirurgi,Forbrug,16,96599.0
+2025-05,Robotkirurgi,Overhead,16,73151.0
+2025-05,Laparoskopi,Personale,56,695686.0
+2025-05,Laparoskopi,Udstyr,56,244913.0
+2025-05,Laparoskopi,Forbrug,56,123282.0
+2025-05,Laparoskopi,Overhead,56,100026.0
+2025-05,Åben kirurgi,Personale,29,407690.0
+2025-05,Åben kirurgi,Udstyr,29,90084.0
+2025-05,Åben kirurgi,Forbrug,29,99698.0
+2025-05,Åben kirurgi,Overhead,29,57094.0
+2025-05,Ambulant opfølgning,Personale,118,333334.0
+2025-05,Ambulant opfølgning,Udstyr,118,35781.0
+2025-05,Ambulant opfølgning,Forbrug,118,29292.0
+2025-05,Ambulant opfølgning,Overhead,118,46856.0
+2025-06,Robotkirurgi,Personale,16,451165.0
+2025-06,Robotkirurgi,Udstyr,16,283785.0
+2025-06,Robotkirurgi,Forbrug,16,92437.0
+2025-06,Robotkirurgi,Overhead,16,71530.0
+2025-06,Laparoskopi,Personale,54,633775.0
+2025-06,Laparoskopi,Udstyr,54,244409.0
+2025-06,Laparoskopi,Forbrug,54,119425.0
+2025-06,Laparoskopi,Overhead,54,98771.0
+2025-06,Åben kirurgi,Personale,30,440305.0
+2025-06,Åben kirurgi,Udstyr,30,94589.0
+2025-06,Åben kirurgi,Forbrug,30,107414.0
+2025-06,Åben kirurgi,Overhead,30,60236.0
+2025-06,Ambulant opfølgning,Personale,118,333731.0
+2025-06,Ambulant opfølgning,Udstyr,118,35005.0
+2025-06,Ambulant opfølgning,Forbrug,118,29530.0
+2025-06,Ambulant opfølgning,Overhead,118,48094.0
+2025-07,Robotkirurgi,Personale,24,694636.0
+2025-07,Robotkirurgi,Udstyr,24,432126.0
+2025-07,Robotkirurgi,Forbrug,24,144234.0
+2025-07,Robotkirurgi,Overhead,24,110591.0
+2025-07,Laparoskopi,Personale,52,640842.0
+2025-07,Laparoskopi,Udstyr,52,233890.0
+2025-07,Laparoskopi,Forbrug,52,110884.0
+2025-07,Laparoskopi,Overhead,52,90396.0
+2025-07,Åben kirurgi,Personale,32,447503.0
+2025-07,Åben kirurgi,Udstyr,32,100603.0
+2025-07,Åben kirurgi,Forbrug,32,110514.0
+2025-07,Åben kirurgi,Overhead,32,62326.0
+2025-07,Ambulant opfølgning,Personale,115,328252.0
+2025-07,Ambulant opfølgning,Udstyr,115,33161.0
+2025-07,Ambulant opfølgning,Forbrug,115,29502.0
+2025-07,Ambulant opfølgning,Overhead,115,47312.0
+2025-08,Robotkirurgi,Personale,24,653378.0
+2025-08,Robotkirurgi,Udstyr,24,435485.0
+2025-08,Robotkirurgi,Forbrug,24,139619.0
+2025-08,Robotkirurgi,Overhead,24,106833.0
+2025-08,Laparoskopi,Personale,60,748539.0
+2025-08,Laparoskopi,Udstyr,60,275877.0
+2025-08,Laparoskopi,Forbrug,60,130004.0
+2025-08,Laparoskopi,Overhead,60,109621.0
+2025-08,Åben kirurgi,Personale,31,445467.0
+2025-08,Åben kirurgi,Udstyr,31,100318.0
+2025-08,Åben kirurgi,Forbrug,31,104253.0
+2025-08,Åben kirurgi,Overhead,31,60557.0
+2025-08,Ambulant opfølgning,Personale,120,326962.0
+2025-08,Ambulant opfølgning,Udstyr,120,35038.0
+2025-08,Ambulant opfølgning,Forbrug,120,30807.0
+2025-08,Ambulant opfølgning,Overhead,120,49878.0
+2025-09,Robotkirurgi,Personale,24,690228.0
+2025-09,Robotkirurgi,Udstyr,24,448946.0
+2025-09,Robotkirurgi,Forbrug,24,139871.0
+2025-09,Robotkirurgi,Overhead,24,107553.0
+2025-09,Laparoskopi,Personale,53,614633.0
+2025-09,Laparoskopi,Udstyr,53,243372.0
+2025-09,Laparoskopi,Forbrug,53,115982.0
+2025-09,Laparoskopi,Overhead,53,95166.0
+2025-09,Åben kirurgi,Personale,27,381507.0
+2025-09,Åben kirurgi,Udstyr,27,89214.0
+2025-09,Åben kirurgi,Forbrug,27,91058.0
+2025-09,Åben kirurgi,Overhead,27,52846.0
+2025-09,Ambulant opfølgning,Personale,115,321747.0
+2025-09,Ambulant opfølgning,Udstyr,115,34739.0
+2025-09,Ambulant opfølgning,Forbrug,115,28735.0
+2025-09,Ambulant opfølgning,Overhead,115,44470.0
+2025-10,Robotkirurgi,Personale,17,489084.0
+2025-10,Robotkirurgi,Udstyr,17,309368.0
+2025-10,Robotkirurgi,Forbrug,17,103217.0
+2025-10,Robotkirurgi,Overhead,17,77542.0
+2025-10,Laparoskopi,Personale,57,659820.0
+2025-10,Laparoskopi,Udstyr,57,253763.0
+2025-10,Laparoskopi,Forbrug,57,125797.0
+2025-10,Laparoskopi,Overhead,57,101274.0
+2025-10,Åben kirurgi,Personale,32,463353.0
+2025-10,Åben kirurgi,Udstyr,32,104601.0
+2025-10,Åben kirurgi,Forbrug,32,115154.0
+2025-10,Åben kirurgi,Overhead,32,64025.0
+2025-10,Ambulant opfølgning,Personale,129,363718.0
+2025-10,Ambulant opfølgning,Udstyr,129,39784.0
+2025-10,Ambulant opfølgning,Forbrug,129,31839.0
+2025-10,Ambulant opfølgning,Overhead,129,51595.0
+2025-11,Robotkirurgi,Personale,18,488073.0
+2025-11,Robotkirurgi,Udstyr,18,321370.0
+2025-11,Robotkirurgi,Forbrug,18,111606.0
+2025-11,Robotkirurgi,Overhead,18,81848.0
+2025-11,Laparoskopi,Personale,51,604110.0
+2025-11,Laparoskopi,Udstyr,51,223838.0
+2025-11,Laparoskopi,Forbrug,51,107935.0
+2025-11,Laparoskopi,Overhead,51,94939.0
+2025-11,Åben kirurgi,Personale,29,414025.0
+2025-11,Åben kirurgi,Udstyr,29,93531.0
+2025-11,Åben kirurgi,Forbrug,29,97499.0
+2025-11,Åben kirurgi,Overhead,29,56970.0
+2025-11,Ambulant opfølgning,Personale,124,350916.0
+2025-11,Ambulant opfølgning,Udstyr,124,38634.0
+2025-11,Ambulant opfølgning,Forbrug,124,31298.0
+2025-11,Ambulant opfølgning,Overhead,124,49511.0
+2025-12,Robotkirurgi,Personale,18,520262.0
+2025-12,Robotkirurgi,Udstyr,18,329720.0
+2025-12,Robotkirurgi,Forbrug,18,112002.0
+2025-12,Robotkirurgi,Overhead,18,82827.0
+2025-12,Laparoskopi,Personale,59,686143.0
+2025-12,Laparoskopi,Udstyr,59,270436.0
+2025-12,Laparoskopi,Forbrug,59,129178.0
+2025-12,Laparoskopi,Overhead,59,106651.0
+2025-12,Åben kirurgi,Personale,30,451350.0
+2025-12,Åben kirurgi,Udstyr,30,99722.0
+2025-12,Åben kirurgi,Forbrug,30,103221.0
+2025-12,Åben kirurgi,Overhead,30,61122.0
+2025-12,Ambulant opfølgning,Personale,125,345702.0
+2025-12,Ambulant opfølgning,Udstyr,125,36372.0
+2025-12,Ambulant opfølgning,Forbrug,125,30102.0
+2025-12,Ambulant opfølgning,Overhead,125,51109.0
+2026-01,Robotkirurgi,Personale,17,494489.0
+2026-01,Robotkirurgi,Udstyr,17,305143.0
+2026-01,Robotkirurgi,Forbrug,17,105900.0
+2026-01,Robotkirurgi,Overhead,17,75959.0
+2026-01,Laparoskopi,Personale,58,672883.0
+2026-01,Laparoskopi,Udstyr,58,262158.0
+2026-01,Laparoskopi,Forbrug,58,130683.0
+2026-01,Laparoskopi,Overhead,58,107947.0
+2026-01,Åben kirurgi,Personale,31,432849.0
+2026-01,Åben kirurgi,Udstyr,31,98190.0
+2026-01,Åben kirurgi,Forbrug,31,104583.0
+2026-01,Åben kirurgi,Overhead,31,60062.0
+2026-01,Ambulant opfølgning,Personale,124,353123.0
+2026-01,Ambulant opfølgning,Udstyr,124,38015.0
+2026-01,Ambulant opfølgning,Forbrug,124,31906.0
+2026-01,Ambulant opfølgning,Overhead,124,50550.0
+2026-02,Robotkirurgi,Personale,19,512804.0
+2026-02,Robotkirurgi,Udstyr,19,334737.0
+2026-02,Robotkirurgi,Forbrug,19,115112.0
+2026-02,Robotkirurgi,Overhead,19,87950.0
+2026-02,Laparoskopi,Personale,49,588688.0
+2026-02,Laparoskopi,Udstyr,49,223627.0
+2026-02,Laparoskopi,Forbrug,49,103743.0
+2026-02,Laparoskopi,Overhead,49,87504.0
+2026-02,Åben kirurgi,Personale,32,470370.0
+2026-02,Åben kirurgi,Udstyr,32,100251.0
+2026-02,Åben kirurgi,Forbrug,32,115161.0
+2026-02,Åben kirurgi,Overhead,32,63222.0
+2026-02,Ambulant opfølgning,Personale,128,352635.0
+2026-02,Ambulant opfølgning,Udstyr,128,38677.0
+2026-02,Ambulant opfølgning,Forbrug,128,31736.0
+2026-02,Ambulant opfølgning,Overhead,128,50278.0
+2026-03,Robotkirurgi,Personale,19,518704.0
+2026-03,Robotkirurgi,Udstyr,19,330640.0
+2026-03,Robotkirurgi,Forbrug,19,112558.0
+2026-03,Robotkirurgi,Overhead,19,86989.0
+2026-03,Laparoskopi,Personale,58,723770.0
+2026-03,Laparoskopi,Udstyr,58,256748.0
+2026-03,Laparoskopi,Forbrug,58,126660.0
+2026-03,Laparoskopi,Overhead,58,101367.0
+2026-03,Åben kirurgi,Personale,30,452316.0
+2026-03,Åben kirurgi,Udstyr,30,97543.0
+2026-03,Åben kirurgi,Forbrug,30,105800.0
+2026-03,Åben kirurgi,Overhead,30,59483.0
+2026-03,Ambulant opfølgning,Personale,129,361111.0
+2026-03,Ambulant opfølgning,Udstyr,129,37568.0
+2026-03,Ambulant opfølgning,Forbrug,129,31903.0
+2026-03,Ambulant opfølgning,Overhead,129,49813.0
